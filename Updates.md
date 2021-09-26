@@ -13,7 +13,7 @@ Hid all of the executables but "The Phoenix Flavour" SKSE from the drop down.
 - Resolution: 4K
 - Compatibility Patch:
   - USSEP
-  - ~~aMidIanBorn~~
+  - ~~aMidianBorn~~
   - ELFX
   - Unofficial Material Fix
   - ~~Rudy HQ~~
