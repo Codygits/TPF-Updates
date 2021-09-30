@@ -15,7 +15,7 @@ Hid all of the executables but "The Phoenix Flavour" SKSE from the drop down.
 - Compatibility Patch:
   - USSEP
   - ~~aMidianBorn~~
-  - ELFX
+  - ~~ELFX~~
   - Unofficial Material Fix
   - ~~Rudy HQ~~
   - ENB Particle Lights
