@@ -1,6 +1,14 @@
+# Changelog
+
+## 4.8.0.1 - 4.8.0.4
+***Current changelog from the last version on the Wabbajack Gallery to Current.***
+
+#### The list going forward will require [.NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) get it or the list wont load :)
+
+Updated ENBseries
 Changed skyrimprefs.ini setting: bFullScreen =0
 
-***UPDATE: FIXES -*** [Assorted Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117) [Version 0.27]
+***UPDATE: FIXES -*** [Assorted Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117) [Version 0.30.1]
 
 ***UPDATE: LIGHTING -*** [Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586) [Version 1.2.1]
 
@@ -26,3 +34,9 @@ Changed skyrimprefs.ini setting: bFullScreen =0
 ***CONFLICT RESOLUTION PATCH***
 
 - Fixed Chest Location for Treasure Map 4 to be accessible. (Slim edit)
+- Incorporated [Dawnstar Shore - A Texture fix](https://www.nexusmods.com/skyrimspecialedition/mods/56577) (Slim Edit)
+- Incorporated [CFTO - Minor fix](https://www.nexusmods.com/skyrimspecialedition/mods/56555) (Slim Edit)
+- Adamant "Soul Siphon" Perk forwarded properly.
+- Removed Cathedral Weathers Spell from players powers.
+- Trade and Barter - Modify Barter Settings Enabled by default
+- iHUD Settings set by default.
