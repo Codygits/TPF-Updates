@@ -1,7 +1,7 @@
 # Changelog
 
 ## 4.8.0.1 - 4.8.0.4
-***Current changelog from the last version on the Wabbajack Gallery to Current.***
+***Changelog from the last version on the Wabbajack Gallery to Current.***
 
 #### The list going forward will require [.NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) get it or the list wont load :)
 
