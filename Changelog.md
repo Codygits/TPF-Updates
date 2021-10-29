@@ -1,60 +1,84 @@
-# Changelog
+## 4.9.0
 
-## 4.8.0.1 - 4.8.0.4
-***Changelog from the last version on the Wabbajack Gallery to Current.***
+This update brings with it two things (other than regular updates), the re-addition of the music section which is all **Yet Another Music Merge** because its amazing. And for number two **Thaumaturgy - An Enchanting Overhaul** because its also amazing. Nuff said. Due to the inclusion of Thaumaturgy this update will not be safe save and will require a new save due to the vast changes to enchanted items. Just as a friendly reminder, you don't have to update if your currently enjoying a playthrough, keep playing and have fun :)
 
-#### The list going forward will require [.NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) get it or the list wont load :)
 
-Updated ENBseries
 
-Changed skyrimprefs.ini setting: bFullScreen =0
+***UPDATED: ESSENTIAL MODS -*** [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294) [Version 18]
 
-***ADDITION: INTERFACE -*** [moreHUD SE - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/55503) [Version 2.1]
+***UPDATED: FIXES -*** [Assorted Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117) [Version 0.32.1]
 
-***UPDATE: FIXES -*** [Assorted Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117) [Version 0.30.1]
+***REMOVAL: GRAPHICS BASELINE -*** Unofficial Material Fix - High Poly Project Patch - (Included in updated High Poly Project)
 
-***UPDATE: FIXES -*** [Scrambled Bugs](https://www.nexusmods.com/skyrimspecialedition/mods/43532) [Version 14]
+Moved Interior Floating Fog Remover above Relighting Skyrim with Window Shadows to let RS effects win.
 
-***UPDATE: FIXES -*** [College of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817) [Version 0.2]
+***REMOVAL: LIGHTING -*** Relighting Skyrim
 
-***UPDATE: GRAPHICS BASELINE -*** [DynDOLOD Resources](https://www.nexusmods.com/skyrimspecialedition/mods/52897) [Version Alpha-15]
+***ADDITION: LIGHTING -*** [Relighting Skyrim SSE with Window Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/8586) [Version 2.0.0WS]
 
-***UPDATE: LIGHTING -*** [Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586) [Version 1.2.1]
+***UPDATED: GRAPHICS BASELINE -*** [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029) [Version 5.0] (Same FOMOD Install)
 
-***UPDATE: LIGHTING -*** [Lanterns of Skyrim II](https://www.nexusmods.com/skyrimspecialedition/mods/30817) [Version 3.1]
+***ADDITION: GRAPHICS BASELINE -*** [High Poly Project - Satchel Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/12029) [Version 1.0]
 
-***ADDITION: LANDSCAPE -*** [HD Stone Quarry and Clay Deposit - Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/37985)
+***UPDATED: GAMEPLAY OVERHAULS -*** [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191) [Version 5.2.1]
 
-***ADDITION: TREES & PLANTS -*** [Enhanced Vanilla Trees SE - EVT Shrine to Peryite Nest Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11008) [2.2.1]
+***UPDATED: GAMEPLAY OVERHAULS -*** [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686) [Version 2.6.0]
 
-***REMOVED: APPAREL & WEAPONS -*** Modular Armory - Orcish Greatsword Fix (incorporated into main Modular Armory Mod)
+***UPDATED: COMBAT & ENCOUNTERS -*** [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310) [Version 1.3.1]
 
-***UPDATED: APPAREL & WEAPONS -*** [Modular Armory](https://www.nexusmods.com/skyrimspecialedition/mods/49771) [Version 1.2]
+***REMOVAL: LOOT & CRAFTING -*** Enchanting Adjustments Updated (Replaced by Thaumaturgy)
 
-***UPDATED: APPAREL & WEAPONS -*** [Modular Armory - Unique Nettlebane](https://www.nexusmods.com/skyrimspecialedition/mods/49771) [Version 1.1unb]
+Removed: Open World Loot - AVL Iron and Steel Addon - Enchanting Adjustments Patch.esp
 
-***UPDATED: APPAREL & WEAPONS -*** [Modular Armory - Unique Zephyr](https://www.nexusmods.com/skyrimspecialedition/mods/49771) [Version 1.1uzp]
+Removed: Open World Loot - AVL Morrowind Glass Addon - Enchanting Adjustments Patch.esp
 
-***ADDITION: APPAREL & WEAPONS -*** [AMB Matching Glass Armory - Female Glass Armor Fix](https://www.nexusmods.com/skyrimspecialedition/mods/26092)
+Removed: Open World Loot - AVL Nordic Addon - Enchanting Adjustments Patch.esp
 
-***NIF MODIFICATION: APPAREL & WEAPONS -*** HD Reflective Ebony Armor and Weapons - Removed sheath from Ebony Greatsword. (LeanWolf's Mesh)
+***ADDITION: LOOT & CRAFTING -*** [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138) [Version 1.0.2]
 
-***NIF MODIFICATION: APPAREL & WEAPONS -*** aMidianBorn Matching Armory - Glass Armor and Weapons - Removed sheath from Glass Greatsword. (LeanWolf's Mesh)
+***ADDITION: LOOT & CRAFTING -*** [Thaumaturgy - An Enchanting Overhaul - WACCF Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57138) [Version 1.0]
 
-***UPDATE: GAMEPLAY OVERHAULS -*** [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191) [Version 5.2]
+Addition: Open World Loot - AVL Iron and Steel Addon - Thaumaturgy Patch.esp
 
-***UPDATE: GAMEPLAY & OVERHAULS -*** [Carriage and Ferry Travel Overhaul - Fixes and Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40651) [Version 3.0]
+Addition: Open World Loot - AVL Morrowind Glass Addon - Thaumaturgy Patch.esp
 
-***UPDATE: UTILITIES -*** [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) [Version 5.0.4]
+Addition: Open World Loot - AVL Nordic Addon - Thaumaturgy Patch.esp
 
-***UPDATE: FINALISATION -*** [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382) [Version Alpha 49] 
+***ADDITION: MUSIC -*** New Sperator with new mods 
+
+***ADDITION: MUSIC -*** [Musical Lore - Soundtrack Mod by Nir Shor](https://www.nexusmods.com/skyrimspecialedition/mods/3200) [Version 1.2]
+
+***ADDITION: MUSIC -*** [The Northerner Diaries - Immersive Edition](https://www.nexusmods.com/skyrimspecialedition/mods/28108) [Version 1.2] 
+
+***ADDITION: MUSIC -*** [Still - Skyrim Inspired Music](https://www.nexusmods.com/skyrimspecialedition/mods/19401) [Version 1.01]
+
+***ADDITION: MUSIC -*** [Hun Lovaas - Skyrim Fan-Made Combat Music](https://www.nexusmods.com/skyrimspecialedition/mods/16123) [Version 1.0]
+
+***ADDITION: MUSIC -*** [Melodies of Civilisation - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/30014) [Version 1.01]
+
+***ADDITION: MUSIC -*** [Around the Fire - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/36144) [Version 1.0]
+
+***ADDITION: MUSIC -*** [Dawnguard Music Overhaul - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/48613) [Version 1.0]
+
+***ADDITION: MUSIC -*** [Yet Another Music Merge](https://www.nexusmods.com/skyrimspecialedition/mods/48725) [Version 1.0]
+
+***UPDATE: SOUND FX -*** [Dragon War - Audio Overhaul for Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51310) [Version 1.3]
+
+
+
+ENB Preset Modifications: Under [WATER] - DisableDistantReflections from true to false.
+
+Created a Runtime Generated Mod for the files that get generated when you launch the game, this makes it when crash log get generated you will get the "files are in your overwrite" and only then.
 
 ***CONFLICT RESOLUTION PATCH***
 
-- Fixed Chest Location for Treasure Map 4 to be accessible. (Slim edit)
-- Incorporated [Dawnstar Shore - A Texture fix](https://www.nexusmods.com/skyrimspecialedition/mods/56577) (Slim Edit)
-- Incorporated [CFTO - Minor fix](https://www.nexusmods.com/skyrimspecialedition/mods/56555) (Slim Edit)
-- Adamant "Soul Siphon" Perk forwarded properly.
-- Removed Cathedral Weathers Spell from players powers.
-- Trade and Barter - Modify Barter Settings Enabled by default
-- iHUD Settings set by default.
+- Removed "EnchFierySouls" Object Effect
+- Removed "MAG_FrostSlowFFContact" Magic Effect
+- [MGEF] MAG_EnchFrostDamageFFContact [0004605B] - Thaum - Audio Overhaul resolve
+- [MGEF] MAG_EnchFrostDamageFFContactChaos [0402C46D] - Thaum - Audio Overhaul resolve
+- [WEAP] MAG_EnchIronDaggerShock03 [000896CB] - Thaum - Audio Overhaul resolve
+- [WEAP] MAG_EnchSteelDaggerFear01A [000A69FF] - Thaum - Audio Overhaul resolve
+- [WEAP] MAG_EnchSteelDaggerTurn01B [000A6A16] - Thaum - Audio Overhaul resolve
+- [WEAP] MAG_EnchElvenDaggerFire04 [000BE18F] - Thaum - Audio Overhaul resolve
+- [BOOK] Letter from Glover [0402AD41] - Fixed ability to pick it up so it can be turn in for the unqiue sapphire.
+- [REFR] MountainCliff02_LightSN [STAT:000201F6] -[07009C55] - boulder blocking entrance to White River Watch fixed.
