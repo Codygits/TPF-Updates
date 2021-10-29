@@ -18,8 +18,6 @@ Moved Interior Floating Fog Remover above Relighting Skyrim with Window Shadows 
 
 ***UPDATED: GRAPHICS BASELINE -*** [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029) [Version 5.0] (Same FOMOD Install)
 
-***ADDITION: GRAPHICS BASELINE -*** [High Poly Project - Satchel Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/12029) [Version 1.0]
-
 ***UPDATED: GAMEPLAY OVERHAULS -*** [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191) [Version 5.2.1]
 
 ***UPDATED: GAMEPLAY OVERHAULS -*** [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686) [Version 2.6.0]
