@@ -11,7 +11,7 @@ because both are amazing, nuff said. Due to the inclusion of Thaumaturgy this up
 ```diff
 -will not be save safe and will require a new save due to the vast changes to enchanted items.
 ```
-Just as a friendly reminder, you don't have to update if your currently enjoying a playthrough, keep playing and have fun :)
+I have also switched to Relighting Skyrim with integrated Window Shadows as I feel it brightens up interiors a tad and gives a nice overall look. Just as a friendly reminder, you don't have to update if your currently enjoying a playthrough, keep playing and have fun 🙂
 
 ***ESSENTIAL MODS*** 
 
