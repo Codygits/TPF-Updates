@@ -1,6 +1,6 @@
 ## 4.9.0
 
-This update brings with it two things (other than regular updates), the re-addition of the music section which is all **Yet Another Music Merge** because its amazing. And for number two **Thaumaturgy - An Enchanting Overhaul** because its also amazing. Nuff said. Due to the inclusion of Thaumaturgy this update will **NOT** be safe save and will require a new save due to the vast changes to enchanted items. Just as a friendly reminder, you don't have to update if your currently enjoying a playthrough, keep playing and have fun :)
+This update brings with it two things (other than regular updates), the re-addition of the music section which is all **Yet Another Music Merge** because its amazing. And for number two **Thaumaturgy - An Enchanting Overhaul** because its also amazing. Nuff said. Due to the inclusion of Thaumaturgy this update will **NOT BE SAVE SAFE** and will require a new save due to the vast changes to enchanted items. Just as a friendly reminder, you don't have to update if your currently enjoying a playthrough, keep playing and have fun :)
 
 
 
