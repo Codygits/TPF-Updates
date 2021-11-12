@@ -6,6 +6,9 @@ In the event you have updated to Skyrim: Anniversary Edition (AE) you will need 
 
 Once you have downgraded or are still on Skyrim Special Edition your good to continue.
 
+## Installation
+- To install The Phoenix Flavour with Wabbajack, [follow these instructions](https://github.com/Codygits/TPF-Updates/blob/main/List%20Installation.md).
+
 ## Playing TPF
 
 It is not possible to run modded Skyrim through Steam. You must always start the game by running SKSE through Mod Organizer 2. Note that I renamed the SKSE executable to The Phoenix Flavour and changed the icon for it as well.
