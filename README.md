@@ -1,4 +1,4 @@
-## The Phoenix Flavour requires Skyrim: Special Edition (SE)
+# The Phoenix Flavour requires Skyrim: Special Edition (SE)
 
 In the event you have updated to Skyrim: Anniversary Edition (AE) you will need to downgrade to (SE) by using the tool below.
 
@@ -6,7 +6,7 @@ In the event you have updated to Skyrim: Anniversary Edition (AE) you will need 
 
 Once you have downgraded or are still on Skyrim Special Edition your good to continue.
 
-# Playing TPF
+## Playing TPF
 
 It is not possible to run modded Skyrim through Steam. You must always start the game by running SKSE through Mod Organizer 2. Note that I renamed the SKSE executable to The Phoenix Flavour and changed the icon for it as well.
 
