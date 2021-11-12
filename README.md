@@ -1,12 +1,17 @@
-# The Phoenix Flavour requires Skyrim: Special Edition (SE)
+# Requirements
+### The Phoenix Flavour requires Skyrim: Special Edition (SE)
 
 In the event you have updated to Skyrim: Anniversary Edition (AE) you will need to downgrade to (SE) by using the tool below.
 
 [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) 
 
 Once you have downgraded or are still on Skyrim Special Edition your good to continue.
+### .NET 5.0 Runtime
 
-## Installation
+With the Scrambled Bugs update requiring .Net 5.0, the game will not launch without this being installed. Please ensure you have .NET v5.0 installed. Download the desktop and console x64 app installers from Microsoft here: [Download .NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
+
+
+# Installation
 - To install The Phoenix Flavour with Wabbajack, [follow these instructions](https://github.com/Codygits/TPF-Updates/blob/main/List%20Installation.md).
 
 Note that TPF does not support Creation Club content. LOOT is similarly not supported, there are no custom LOOT rules and you should under no circumstances run LOOT on your TPF installation.
