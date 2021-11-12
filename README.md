@@ -29,8 +29,4 @@ It is not possible to run modded Skyrim through Steam. You must always start the
 
 ## MCM Configuration
 
-Once in game the only MCM you have to configure is Simple Smithing (Overhaul) with the following settings...
-- In the **Settings** tab, uncheck **Allow Artefact Replication**.
-- In the **Settings** tab, uncheck **Allow Upgrade Unique Gear Levels**.
-
-![sso-mcm](https://user-images.githubusercontent.com/20106025/141523009-edb5628c-072d-400c-a103-4505e24df843.jpg)
+Once in game you're good to go, all of the MCM options have been pre-configured.
