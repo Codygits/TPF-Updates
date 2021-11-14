@@ -1,11 +1,16 @@
 # Requirements
 ### The Phoenix Flavour requires Skyrim: Special Edition (SE)
 
-In the event you have updated to Skyrim: Anniversary Edition (AE) you will need to downgrade to (SE) by using the tool below.
+**Wabbajack modlists are not compatible with Skyrim Anniversary Edition** and there is no estimated timeframe for when this may change.
 
-[Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) 
+The Anniversary Edition makes a number of fundamental changes which mean many critical tools, such as SKSE and mods that rely on those tools, need to be updated.
 
-Once you have downgraded or are still on Skyrim Special Edition your good to continue.
+In order to use Wabbajack modlists, you must not update your copy of Skyrim Special Edition. If you updated, use the AE downgrade patcher by downloading the "FullPatcher.zip":
+[Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618)
+
+To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
+
+**Please do not ask when AE will be supported**.
 ### .NET 5.0 Runtime
 
 With the Scrambled Bugs update requiring .Net 5.0, the game will not launch without this being installed. Please ensure you have .NET v5.0 installed. Download the desktop and console x64 app installers from Microsoft here: [Download .NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
