@@ -5,7 +5,7 @@
 
 The Anniversary Edition makes a number of fundamental changes which mean many critical tools, such as SKSE and mods that rely on those tools, need to be updated.
 
-In order to use Wabbajack modlists, you must not update your copy of Skyrim Special Edition. If you updated, use the AE downgrade patcher by downloading the "FullPatcher.zip":
+In order to use Wabbajack modlists, you must not update your copy of Skyrim Special Edition. If you updated, use the AE downgrade patcher by downloading the "FullPatcher.exe":
 [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618)
 
 To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
