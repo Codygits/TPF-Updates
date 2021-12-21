@@ -7,8 +7,8 @@ None of the Creation Club content has been integrated yet. The downgrader is no 
 
 With the Scrambled Bugs update requiring .Net 5.0, the game will not launch without this being installed. Please ensure you have .NET v5.0 installed. Download the desktop and console x64 app installers from Microsoft here: [Download .NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 ![DotNet](https://user-images.githubusercontent.com/20106025/146851195-42693452-bc79-42e0-9ee7-b84ab65865ce.png)
-Download the desktop app x64 AND console app x64 installers
 
+Download the desktop app x64 AND console app x64 installers
 
 # Installation
 - To install The Phoenix Flavour with Wabbajack, [follow these instructions](https://github.com/Codygits/TPF-Updates/blob/main/List%20Installation.md).
