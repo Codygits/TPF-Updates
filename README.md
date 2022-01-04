@@ -1,7 +1,7 @@
 # Requirements
-### The Phoenix Flavour requires Skyrim: Anniversary Edition (AE) 
+### The Phoenix Flavour requires Skyrim: Anniversary Edition (SE)
 
-None of the Creation Club content has been integrated yet. The downgrader is no longer necessary to use, just have a unmodified Skyrim AE install by verifying the integrity of the game files by following these [instructions](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB). Make sure that the game is set to English in Steam. Non-English versions of the game are not supported.
+None of the free Creation Club content has been integrated yet. The downgrader is no longer necessary to use, just have a unmodified Skyrim SE install by verifying the integrity of the game files by following these [instructions](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB). Make sure that the game is set to English in Steam. Non-English versions of the game are not supported.
 
 ### .NET 5.0 Runtime
 
