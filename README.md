@@ -25,6 +25,8 @@ It is not possible to run modded Skyrim through Steam. You must always start the
 
 ![Wabbajack Start](https://user-images.githubusercontent.com/20106025/141523222-8bb2ce9b-1b67-451f-b4ee-07fb83c71975.png)
 
+## Widescreen Support
+Widescreen support is a matter of enabling all the mods under the **Widescreen Support** seperator near the bottom of the left hand side of Mod Organizer 2.
 
 ## MCM Configuration
 
