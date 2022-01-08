@@ -20,6 +20,7 @@ Note that TPF does not support Creation Club content. LOOT is similarly not supp
 It is not possible to run modded Skyrim through Steam. You must always start the game by running SKSE through Mod Organizer 2. Note that I renamed the SKSE executable to The Phoenix Flavour and changed the icon for it as well.
 
 - Open your installation folder and double-click the ModOrganizer.exe inside.
+- Select the profile you wish to use - Wisdescreen support is selectable here.
 - In Mod Organizer 2, make sure The Phoenix Flavour is selected as executable.
 - Hit Run to start the game. Select NEW in the main menu.
 
