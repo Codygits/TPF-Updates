@@ -3,12 +3,10 @@
 
 None of the free Creation Club content has been integrated yet. The downgrader is no longer necessary to use, just have a unmodified Skyrim SE install by verifying the integrity of the game files by following these [instructions](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB). Make sure that the game is set to English in Steam. Non-English versions of the game are not supported.
 
-### .NET 5.0 Runtime
+### Microsoft Visual C++ Redistributable
 
-With the Scrambled Bugs update requiring .Net 5.0, the game will not launch without this being installed. Please ensure you have .NET v5.0 installed. Download the desktop and console x64 app installers from Microsoft here: [Download .NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
-![DotNet](https://user-images.githubusercontent.com/20106025/146851195-42693452-bc79-42e0-9ee7-b84ab65865ce.png)
+Scrambled Bugs now requires [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe), make sure you have the file mentioned here installed for the list to operate correctly
 
-Download the desktop app x64 AND console app x64 installers
 
 # Installation
 - To install The Phoenix Flavour with Wabbajack, [follow these instructions](https://github.com/Codygits/TPF-Updates/blob/main/List%20Installation.md).
