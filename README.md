@@ -1,7 +1,7 @@
 # Requirements
 ### The Phoenix Flavour requires Skyrim: Special Edition (SE)
 
-None of the free Creation Club content has been integrated yet. The downgrader is no longer necessary to use, just have a unmodified Skyrim SE install by verifying the integrity of the game files by following these [instructions](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB). Make sure that the game is set to English in Steam. Non-English versions of the game are not supported.
+Currently Fishing & Rare Curios are the only free CC content that's integrated into the list. The downgrader is no longer necessary to use, just have a unmodified Skyrim SE install by verifying the integrity of the game files by following these [instructions](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB). Make sure that the game is set to English in Steam. Non-English versions of the game are not supported.
 
 ### Microsoft Visual C++ Redistributable for Visual Studio 2019
 
@@ -11,7 +11,7 @@ Scrambled Bugs now requires [Microsoft Visual C++ Redistributable](https://aka.m
 # Installation
 - To install The Phoenix Flavour with Wabbajack, [follow these instructions](https://github.com/Codygits/TPF-Updates/blob/main/List%20Installation.md).
 
-Note that TPF does not support Creation Club content. LOOT is similarly not supported, there are no custom LOOT rules and you should under no circumstances run LOOT on your TPF installation.
+Note that TPF does not yet support any of the Anniversary Edition content yet. LOOT is similarly not supported, there are no custom LOOT rules and you should under no circumstances run LOOT on your TPF installation.
 
 ## Playing TPF
 
