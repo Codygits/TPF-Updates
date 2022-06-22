@@ -24,7 +24,7 @@ It is not possible to run modded Skyrim through Steam. You must always start the
 ![Wabbajack Start](https://user-images.githubusercontent.com/20106025/141523222-8bb2ce9b-1b67-451f-b4ee-07fb83c71975.png)
 
 ## Difficulty - Optional
-By default there are (4) mods enabled to make combat easier / more akin to vanilla. If you wish to increase the difficulty of the list disable all (4) mods in the DIFFICULTY MODIFIERS separator.
+By default there are (2) mods enabled to make combat easier / more akin to vanilla. If you wish to increase the difficulty of the list disable all (2) mods in the DIFFICULTY MODIFIERS separator.
 
 ## Widescreen Support
 Widescreen support is a matter of enabling all the mods under the **Widescreen Support** seperator near the bottom of the left hand side of Mod Organizer 2.
