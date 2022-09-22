@@ -27,7 +27,7 @@ It is not possible to run modded Skyrim through Steam. You must always start the
 Within the DIFFICULTY MODIFIERS & OPTIONALS separator the first mod in here enables the ENB of the list, if you wish to play without the ENB, just diable the ENBSeries v0.475 mod in this section.
 By default there are (3) mods enabled to make combat easier / more akin to vanilla. If you wish to increase the difficulty of the list disable the Blade and Blunt and the two Dragon War Mods in this section.
 
-##Performance Options
+## Performance Options
 The Phoenix Flavour comes with a pre-build performance profile for less powerful PC's. Switching to the profile is as easy as just selecting it from the drop down Profile menu as indicated below...
 
 ## Widescreen Support
