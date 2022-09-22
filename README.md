@@ -44,3 +44,7 @@ Widescreen support is a matter of enabling all the mods under the **Widescreen S
 ## MCM Configuration
 
 Once in game you're good to go, all of the MCM options have been pre-configured.
+
+## Fequently Asked Questions?
+
+Most of the common issues answered here [FAQ's](https://github.com/Codygits/TPF-Updates/blob/main/FAQ.md).
