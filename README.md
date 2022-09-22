@@ -30,6 +30,8 @@ By default there are (3) mods enabled to make combat easier / more akin to vanil
 ## Performance Options
 The Phoenix Flavour comes with a pre-build performance profile for less powerful PC's. Switching to the profile is as easy as just selecting it from the drop down Profile menu as indicated below...
 
+![Performance Options](https://github.com/Codygits/TPF-Updates/blob/bab972235de061bb87e19dff6b88380eb594f01d/images/Performance%20Options.PNG)
+
 ## Widescreen Support
 Widescreen support is a matter of enabling all the mods under the **Widescreen Support** seperator near the bottom of the left hand side of Mod Organizer 2.
 
