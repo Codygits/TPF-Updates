@@ -41,6 +41,7 @@ If the performance profile is not enough, disabling the ENB thats enabled by def
 ## Skip the Intro
 The Phoenix Flavour comes with Optional Quick Start SE which is disabled by default, if you wish to skip the intro cutscene just enable the (2) mods in the picture below.
 
+![Skip the Intro](https://github.com/Codygits/TPF-Updates/blob/main/images/Skip%20the%20Intro.PNG?raw=true)
 
 ## Widescreen Support
 Widescreen support is a matter of enabling all the mods under the **Widescreen Support** seperator near the bottom of the left hand side of Mod Organizer 2.
