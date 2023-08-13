@@ -1,4 +1,7 @@
 # Requirements
+
+[![Discord](https://img.shields.io/discord/1132691434420576337?style=for-the-badge&label=Aetherius%20Modding)](https://discord.gg/aetherius-modding)
+
 ### The Phoenix Flavour requires Skyrim: Special Edition (SE)
 
 Currently Fishing & Rare Curios are the only free CC content that's integrated into the list. The downgrader is no longer necessary to use, just have a unmodified Skyrim SE install by verifying the integrity of the game files by following these [instructions](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB). Make sure that the game is set to English in Steam. Non-English versions of the game are not supported.
