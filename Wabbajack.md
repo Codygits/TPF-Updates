@@ -4,5 +4,5 @@
 
 Please visit the [Readme Documentation](https://github.com/Codygits/TPF-Updates/blob/main/README.md) for more information as well as installation and configuration instructions.
 
-* Join us on [Discord](https://discord.com/invite/BpwXX5f).
+* Join us on [Discord](https://discord.gg/aetherius-modding).
 * Support me on [Patreon](https://www.patreon.com/thephoenixflavour).
