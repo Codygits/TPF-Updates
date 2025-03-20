@@ -1,5 +1,8 @@
 # Frequently Asked Question's
 
+## Unable to download Data_ccbgssse037-curios
+
+
 ## Q1. Whats this error and is it a bad crash?
 
 ![RBError](https://github.com/Codygits/TPF-Updates/blob/e842605d6ba185d095b38d5fe47381a7e019e115/images/RBError.PNG)
