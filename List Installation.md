@@ -16,7 +16,9 @@ The Wabbajack app can be downloaded directly from the website:
 ### Choosing the list
 Once Wabbajack has launched, you can click the **Browse Modlists** button to view all currently available lists. If you are following these instructions, you likely already know which mod list you want to install.
 
-![Downloadlist](https://user-images.githubusercontent.com/20106025/141527642-d1dbe720-82bb-421e-9020-c3fb9d9d28bd.png)
+![Install1](https://github.com/Codygits/TPF-Updates/blob/main/images/Install1.PNG)
+
+![Install2](https://github.com/Codygits/TPF-Updates/blob/main/images/Install2.PNG)
 
 ## List Configuration
 Once the meta file for your chosen list has been downloaded, a new browser window with the list’s readme will automatically open. You can simply continue here on this page (if your list supports it to begin with).
@@ -37,7 +39,7 @@ For example, with Skyrim SE installed under ```C:\Steam Library\steamapps\common
 
 The Download Location will be the folder in which all downloaded mod archives are stored in. It is a sub-folder of your MO2 directory (Installation Location) by default. However, the downloaded archives are only needed for installing and updating the list, not for playing. Therefore, they do not need to be on the same hard drive as the vanilla game and installed mod files, so the 60GB+ of space they take up would be wasted on an SSD. Any HDD is perfectly sufficient to store these archives.
 
-![Download Location](https://user-images.githubusercontent.com/20106025/141528540-d597c80e-c7e9-4b2f-8138-76b8f73dcdcc.png)
+![Install3](https://github.com/Codygits/TPF-Updates/blob/main/images/Install3.PNG)
 
 ## Installation
 
